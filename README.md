@@ -1,8 +1,8 @@
-# Code Runner Plugin
+# Code Runner Plugin/GPT
 ![cover_logo](https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/master/resources/logo.png?raw=true "")</br>
 [![Plugin](https://img.shields.io/badge/Code%20Runner-Plugin-blue)](https://code-runner-plugin.vercel.app/)
-[![Plugin - Manifest](https://img.shields.io/badge/Code%20Runner-Manifest-blue)](https://code-runner-plugin.vercel.app/.well-known/ai-plugin.json)
-[![Plugin](https://img.shields.io/badge/Paypal-Support-blue)]([https://code-runner-plugin.vercel.app](https://www.paypal.com/paypalme/EpicProTeam?country.x=IN&locale.x=en_GB))</br>
+[![Plugin](https://img.shields.io/badge/Paypal-Support-blue)]([https://code-runner-plugin.vercel.app](https://www.paypal.com/paypalme/EpicProTeam?country.x=IN&locale.x=en_GB))
+[![Code-Runner GPT](https://img.shields.io/badge/Code%20Runner-GPT-blue)](https://chatgpt.com/g/g-SuWVXlmkP-code-runner)</br>
 <a href="https://www.buymeacoffee.com/haseebheaven"><img src="https://img.buymeacoffee.com/button-api/?text=Support Code Runner&emoji=&slug=haseebheaven&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
@@ -11,6 +11,9 @@ Check out my first awesome plugin for **ChatGPT** that lets you Run code in 70+ 
 This code will run this Plugin on your local machine with localhost:8000 as the URL. </br>
 If you want to use Hosted one then check The Website is hosted on [Vercel](https://code-runner.heavenplugins.com)</br>
 Checkout new designed website for [Code Runner](https://code-runner-plugin.b12sites.com) </br>
+### NOTE: Plugin has been updated to GPT
+This plugin has been converted to GPT you can download from `GPT-Store` just search `Code Runner`.
+Or you can chat via this [![Code-Runner GPT](https://img.shields.io/badge/Code%20Runner-GPT-blue)](https://chatgpt.com/g/g-SuWVXlmkP-code-runner)</br>
 
 ## Information
 💻 **Run And Save Code** in over 70 programming languages with ease! **Chat-GPT Code Runner** offers a *versatile* and *flexible* coding experience for developers of all levels.</br>
